@@ -1,2 +1,2 @@
 ## Hi 
-I like computer science and statitics
+I like computer science and statistics
